@@ -19,10 +19,12 @@ status-website:
   cname: status.dprojects.org
   logoUrl: https://api.dprojects.org/logo.png
   name: DProjects Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Status DProjects** aca puedes ver en tiempo real el estado de la web"
   introMessage: Status Dprojects real time
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/xDoofy92/status
+    - title: Telegram
+      href: https://t.me/dprojects
