@@ -1,5 +1,5 @@
-owner: upptime
-repo: upptime
+owner: xDoofy92
+repo: status
 
 sites:
   - name: DProjects
@@ -29,6 +29,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/xDoofy92/status
+      href: https://github.com/$OWNER/$REPO
     - title: Telegram
       href: https://t.me/dprojects
