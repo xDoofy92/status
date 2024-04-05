@@ -23,8 +23,7 @@ status-website:
   favicon: https://www.dprojects.org/icon.webp
   logoUrl: https://api.dprojects.org/logo.png
   name: DProjects Status
-  introTitle: "**Status DProjects** aca puedes ver en tiempo real el estado de la web"
-  introMessage: Status Dprojects real time
+  introTitle: "**Estado de DProjects** en tiempo real"
   navbar:
     - title: Status
       href: /
