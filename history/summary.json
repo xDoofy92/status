@@ -4,27 +4,29 @@
     "url": "https://www.dprojects.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dprojects.org.ico",
     "slug": "d-projects",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 395,
     "timeDay": 488,
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 1
+    }
   },
   {
     "name": "API DProjects",
     "url": "https://api.dprojects.org/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.dprojects.org.ico",
     "slug": "api-d-projects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,29 @@
     "timeWeek": 648,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   },
   {
     "name": "WKeys",
     "url": "https://wkeys.net/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/wkeys.net.ico",
     "slug": "w-keys",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 586,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 529,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 406,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2024-04-10": 0
+    }
   },
   {
     "name": "Torrent Seed",
@@ -59,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torrent-seed",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 113,
     "timeDay": 154,
     "timeWeek": 113,
