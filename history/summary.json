@@ -64,19 +64,19 @@
     "url": "pw.wkeys.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torrent-seed",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 120,
-    "timeDay": 158,
-    "timeWeek": 133,
+    "timeDay": 133,
+    "timeWeek": 130,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-04-24": 0,
+      "2024-04-24": 96,
       "2024-04-05": 96
     }
   }
