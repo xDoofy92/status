@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 434,
-    "timeDay": 454,
+    "time": 433,
+    "timeDay": 393,
     "timeWeek": 405,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2024-04-10": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 693,
-    "timeDay": 705,
-    "timeWeek": 666,
-    "timeMonth": 693,
-    "timeYear": 693,
+    "time": 695,
+    "timeDay": 764,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2024-04-10": 10
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 591,
-    "timeDay": 618,
-    "timeWeek": 620,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 589,
+    "timeDay": 528,
+    "timeWeek": 610,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-04-10": 10
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torrent-seed",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "93.37%",
     "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
-    "time": 120,
-    "timeDay": 133,
-    "timeWeek": 130,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 119,
+    "timeDay": 103,
+    "timeWeek": 122,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2024-04-24": 96,
       "2024-04-05": 96
