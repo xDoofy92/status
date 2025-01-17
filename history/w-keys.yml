@@ -1,7 +1,7 @@
 url: https://wkeys.net/api/ping
-status: down
-code: 503
-responseTime: 6243
-lastUpdated: 2025-01-17T12:53:37.487Z
+status: up
+code: 200
+responseTime: 437
+lastUpdated: 2025-01-17T13:46:05.831Z
 startTime: 2024-04-05T20:58:34.584Z
 generator: Upptime <https://github.com/upptime/upptime>
