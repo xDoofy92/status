@@ -20,8 +20,8 @@ sites:
 status-website:
   theme: night
   cname: status.xdoofy92.com
-  favicon: https://mail.xdoofy92.com/skins/elastic/images/logo.svg
-  logoUrl: https://mail.xdoofy92.com/skins/elastic/images/logo.svg
+  favicon: https://mail.xdoofy92.com/skins/elastic/images/logo.svg?s=1738800422
+  logoUrl: https://mail.xdoofy92.com/skins/elastic/images/logo.svg?s=1738800422
   name: Doofy's Status
   introTitle: "Estado de **Servicios** en tiempo real"
   navbar:
