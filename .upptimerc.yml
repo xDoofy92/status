@@ -2,8 +2,6 @@ owner: xDoofy92
 repo: status
 
 sites:
-  - name: xdoofy92
-    url: https://xdoofy92.com
   - name: DProjects
     url: https://www.dprojects.org
   - name: API DProjects
