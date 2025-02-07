@@ -1,5 +1,25 @@
 [
   {
+    "name": "xdoofy92",
+    "url": "https://xdoofy92.com",
+    "icon": "https://icons.duckduckgo.com/ip3/xdoofy92.com.ico",
+    "slug": "xdoofy92",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 759,
+    "timeDay": 759,
+    "timeWeek": 759,
+    "timeMonth": 759,
+    "timeYear": 759,
+    "dailyMinutesDown": {
+      "2025-02-07": 72
+    }
+  },
+  {
     "name": "DProjects",
     "url": "https://www.dprojects.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dprojects.org.ico",
