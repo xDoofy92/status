@@ -4,9 +4,9 @@
     "url": "https://xdoofy92.com",
     "icon": "https://icons.duckduckgo.com/ip3/xdoofy92.com.ico",
     "slug": "xdoofy92",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-02-07": 72
     }
   },
@@ -103,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wkeys.net.ico",
     "slug": "w-keys",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 506,
     "timeDay": 3621,
     "timeWeek": 2240,
