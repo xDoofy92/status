@@ -12,12 +12,6 @@ sites:
   - name: WKeys
     url: https://wkeys.net/api/ping
     body: pong
-  - name: Torrent Seed
-    url: pw.wkeys.net
-    port: 51413
-    check: "tcp-ping"
-    assignees:
-      - CarmeloCampos
 
 status-website:
   theme: night
