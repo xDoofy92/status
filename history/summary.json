@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.30%",
-    "time": 819,
-    "timeDay": 392,
-    "timeWeek": 352,
-    "timeMonth": 1014,
-    "timeYear": 819,
+    "time": 818,
+    "timeDay": 386,
+    "timeWeek": 340,
+    "timeMonth": 1021,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-10-06": 111,
       "2025-08-28": 43,
@@ -33,16 +33,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dprojects.org.ico",
     "slug": "d-projects",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.18%",
-    "time": 448,
-    "timeDay": 486,
-    "timeWeek": 339,
-    "timeMonth": 316,
-    "timeYear": 490,
+    "time": 449,
+    "timeDay": 480,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-09-25": 123,
       "2025-09-24": 37,
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 554,
-    "timeDay": 525,
-    "timeWeek": 379,
-    "timeMonth": 358,
+    "timeDay": 531,
+    "timeWeek": 396,
+    "timeMonth": 364,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-09-25": 121,
@@ -143,8 +143,7 @@
       "2024-12-29": 13,
       "2024-12-06": 16,
       "2024-12-04": 12,
-      "2024-11-25": 11,
-      "2024-11-05": 14
+      "2024-11-25": 11
     }
   },
   {
@@ -158,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 726,
-    "timeDay": 902,
-    "timeWeek": 660,
-    "timeMonth": 602,
-    "timeYear": 858,
+    "time": 727,
+    "timeDay": 785,
+    "timeWeek": 659,
+    "timeMonth": 616,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-09-24": 13,
       "2025-09-23": 52,
@@ -185,8 +184,7 @@
       "2024-12-29": 13,
       "2024-12-06": 14,
       "2024-12-04": 12,
-      "2024-11-25": 10,
-      "2024-11-05": 14
+      "2024-11-25": 10
     }
   }
 ]
