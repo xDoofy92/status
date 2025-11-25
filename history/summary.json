@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 788,
-    "timeDay": 225,
-    "timeWeek": 290,
-    "timeMonth": 349,
-    "timeYear": 788,
+    "time": 786,
+    "timeDay": 167,
+    "timeWeek": 258,
+    "timeMonth": 341,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2025-10-06": 111,
       "2025-08-28": 43,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.18%",
-    "time": 455,
-    "timeDay": 349,
-    "timeWeek": 600,
-    "timeMonth": 409,
-    "timeYear": 497,
+    "time": 456,
+    "timeDay": 842,
+    "timeWeek": 570,
+    "timeMonth": 427,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2025-09-25": 123,
       "2025-09-24": 37,
@@ -101,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dprojects.org.ico",
     "slug": "api-d-projects",
     "status": "down",
-    "uptime": "98.48%",
+    "uptime": "98.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.30%",
-    "uptimeYear": "97.63%",
-    "time": 560,
+    "uptimeMonth": "72.05%",
+    "uptimeYear": "97.36%",
+    "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 391,
+    "timeMonth": 396,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-11-24": 100,
+      "2025-11-25": 86,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -151,8 +152,7 @@
       "2025-01-17": 65,
       "2024-12-29": 13,
       "2024-12-06": 16,
-      "2024-12-04": 12,
-      "2024-11-25": 11
+      "2024-12-04": 12
     }
   },
   {
@@ -167,9 +167,9 @@
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.28%",
     "time": 736,
-    "timeDay": 559,
-    "timeWeek": 492,
-    "timeMonth": 574,
+    "timeDay": 502,
+    "timeWeek": 497,
+    "timeMonth": 575,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2025-11-18": 138,
@@ -194,8 +194,7 @@
       "2025-01-17": 53,
       "2024-12-29": 13,
       "2024-12-06": 14,
-      "2024-12-04": 12,
-      "2024-11-25": 10
+      "2024-12-04": 12
     }
   }
 ]
