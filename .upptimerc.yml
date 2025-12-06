@@ -2,17 +2,20 @@ owner: xDoofy92
 repo: status
 
 sites:
-  - name: xdoofy92
-    url: https://xdoofy92.com
   - name: DProjects
     url: https://www.dprojects.org
+
   - name: API DProjects
     url: https://api.dprojects.org/api/ping
     body: pong
-  - name: WKeys
-    url: https://wkeys.net/api/ping
+    
+  - name: xdoofy92
+    url: https://xdoofy92.com
+    
+  - name: MiniOS
+    url: https://minios.org/api/ping
     body: pong
-
+    
 status-website:
   theme: night
   cname: status.xdoofy92.com
