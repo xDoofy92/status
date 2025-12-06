@@ -159,22 +159,22 @@
   },
   {
     "name": "MiniOS",
-    "url": "https://minios.org/api/ping",
+    "url": "https://minios.org",
     "icon": "https://icons.duckduckgo.com/ip3/minios.org.ico",
     "slug": "mini-os",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 430,
-    "timeDay": 430,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-12-06": 5
+      "2025-12-06": 17
     }
   }
 ]
