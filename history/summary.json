@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xdoofy92.com.ico",
     "slug": "xdoofy92",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "97.70%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.36%",
-    "time": 767,
-    "timeDay": 294,
-    "timeWeek": 277,
-    "timeMonth": 314,
-    "timeYear": 767,
+    "uptimeYear": "99.37%",
+    "time": 765,
+    "timeDay": 222,
+    "timeWeek": 257,
+    "timeMonth": 306,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-10-06": 111,
@@ -34,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dprojects.org.ico",
     "slug": "d-projects",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "97.70%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.18%",
     "time": 463,
-    "timeDay": 704,
-    "timeWeek": 733,
-    "timeMonth": 549,
+    "timeDay": 499,
+    "timeWeek": 674,
+    "timeMonth": 545,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-12-05": 33,
@@ -92,8 +92,7 @@
       "2025-02-10": 12,
       "2025-01-30": 21,
       "2025-01-22": 111,
-      "2025-01-17": 26,
-      "2024-12-06": 17
+      "2025-01-17": 26
     }
   },
   {
@@ -104,14 +103,14 @@
     "status": "up",
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.98%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "59.92%",
     "uptimeYear": "96.35%",
-    "time": 579,
-    "timeDay": 542,
-    "timeWeek": 1011,
-    "timeMonth": 714,
-    "timeYear": 554,
+    "time": 580,
+    "timeDay": 695,
+    "timeWeek": 1074,
+    "timeMonth": 728,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-12-02": 19,
       "2025-11-28": 1058,
@@ -155,8 +154,7 @@
       "2025-01-25": 11,
       "2025-01-22": 111,
       "2025-01-17": 65,
-      "2024-12-29": 13,
-      "2024-12-06": 16
+      "2024-12-29": 13
     }
   },
   {
@@ -165,18 +163,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wkeys.net.ico",
     "slug": "w-keys",
     "status": "down",
-    "uptime": "98.53%",
+    "uptime": "98.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.10%",
-    "uptimeMonth": "85.96%",
-    "uptimeYear": "98.25%",
+    "uptimeWeek": "36.65%",
+    "uptimeMonth": "83.79%",
+    "uptimeYear": "98.07%",
     "time": 744,
     "timeDay": 0,
-    "timeWeek": 590,
-    "timeMonth": 554,
-    "timeYear": 874,
+    "timeWeek": 631,
+    "timeMonth": 545,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-12-05": 571,
+      "2025-12-06": 84,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -201,8 +200,7 @@
       "2025-01-25": 10,
       "2025-01-22": 111,
       "2025-01-17": 53,
-      "2024-12-29": 13,
-      "2024-12-06": 14
+      "2024-12-29": 13
     }
   }
 ]
