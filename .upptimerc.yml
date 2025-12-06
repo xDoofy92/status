@@ -13,7 +13,7 @@ sites:
     url: https://xdoofy92.com
     
   - name: MiniOS
-    url: https://minios.org/api/ping
+    url: https://minios.org
     body: pong
     
 status-website:
