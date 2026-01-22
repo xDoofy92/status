@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "94.17%",
-    "time": 499,
-    "timeDay": 350,
-    "timeWeek": 619,
-    "timeMonth": 702,
-    "timeYear": 558,
+    "uptimeYear": "94.19%",
+    "time": 500,
+    "timeDay": 621,
+    "timeWeek": 560,
+    "timeMonth": 694,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2026-01-13": 37,
       "2026-01-07": 19,
@@ -63,8 +63,7 @@
       "2025-03-05": 11,
       "2025-02-12": 20,
       "2025-02-10": 12,
-      "2025-01-30": 21,
-      "2025-01-22": 111
+      "2025-01-30": 21
     }
   },
   {
@@ -77,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.37%",
-    "time": 543,
-    "timeDay": 590,
-    "timeWeek": 516,
-    "timeMonth": 561,
-    "timeYear": 593,
+    "uptimeYear": "96.39%",
+    "time": 544,
+    "timeDay": 649,
+    "timeWeek": 532,
+    "timeMonth": 576,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2025-12-02": 19,
       "2025-11-28": 1058,
@@ -123,8 +122,7 @@
       "2025-02-26": 13,
       "2025-02-10": 11,
       "2025-01-30": 19,
-      "2025-01-25": 11,
-      "2025-01-22": 111
+      "2025-01-25": 11
     }
   },
   {
@@ -138,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 706,
-    "timeDay": 155,
-    "timeWeek": 252,
-    "timeMonth": 293,
-    "timeYear": 706,
+    "time": 705,
+    "timeDay": 254,
+    "timeWeek": 232,
+    "timeMonth": 289,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-10-06": 111,
@@ -162,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/minios.org.ico",
     "slug": "mini-os",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 380,
-    "timeDay": 128,
-    "timeWeek": 324,
-    "timeMonth": 379,
-    "timeYear": 380,
+    "uptimeYear": "99.98%",
+    "time": 379,
+    "timeDay": 352,
+    "timeWeek": 297,
+    "timeMonth": 374,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-12-06": 17
     }
