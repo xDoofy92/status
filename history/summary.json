@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dprojects.org.ico",
     "slug": "d-projects",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.20%",
-    "time": 507,
-    "timeDay": 192,
-    "timeWeek": 502,
-    "timeMonth": 600,
+    "time": 508,
+    "timeDay": 537,
+    "timeWeek": 524,
+    "timeMonth": 595,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-01-13": 37,
@@ -61,8 +61,7 @@
       "2025-04-29": 11,
       "2025-04-13": 12,
       "2025-03-05": 11,
-      "2025-02-12": 20,
-      "2025-02-10": 12
+      "2025-02-12": 20
     }
   },
   {
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.40%",
-    "time": 586,
-    "timeDay": 669,
-    "timeWeek": 663,
-    "timeMonth": 1150,
-    "timeYear": 650,
+    "time": 587,
+    "timeDay": 657,
+    "timeWeek": 690,
+    "timeMonth": 1156,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-12-02": 19,
       "2025-11-28": 1058,
@@ -118,8 +117,7 @@
       "2025-03-08": 18,
       "2025-03-05": 10,
       "2025-02-28": 13,
-      "2025-02-26": 13,
-      "2025-02-10": 11
+      "2025-02-26": 13
     }
   },
   {
@@ -133,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 685,
-    "timeDay": 134,
-    "timeWeek": 286,
-    "timeMonth": 280,
-    "timeYear": 685,
+    "time": 684,
+    "timeDay": 150,
+    "timeWeek": 257,
+    "timeMonth": 277,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-10-06": 111,
@@ -161,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 357,
-    "timeDay": 98,
-    "timeWeek": 259,
-    "timeMonth": 329,
-    "timeYear": 357,
+    "time": 356,
+    "timeDay": 291,
+    "timeWeek": 256,
+    "timeMonth": 327,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2025-12-06": 17
     }
